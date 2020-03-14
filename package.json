@@ -1,8 +1,13 @@
 {
 	"name": "maple-watermark",
-	"version": "1.1.2",
+	"version": "1.1.3",
 	"description": "add watermark",
 	"main": "./dist/Maple.js",
+	"homepage": "https://www.npmjs.com/package/maple-watermark",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hf0913/watermark"
+	},
 	"scripts": {
 		"build": "webpack"
 	},
@@ -14,7 +19,11 @@
 		"mark",
 		"add"
 	],
-	"author": "Maple",
+	"author": {
+		"name": "Maple",
+		"email": "fenghu0913@gmail.com",
+		"url": "https://www.npmjs.com/package/maple-watermark"
+	},
 	"license": "ISC",
 	"devDependencies": {
 		"@babel/core": "^7.8.7",

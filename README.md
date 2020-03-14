@@ -48,7 +48,8 @@ addWatermark(config);
 
 ### Source address
 
-https://github.com/hf0913/watermark
+github：https://github.com/hf0913/watermark
+npm：https://www.npmjs.com/package/maple-watermark
 
 #### Contact information
 
