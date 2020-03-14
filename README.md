@@ -46,6 +46,10 @@ const config = {
 addWatermark(config);
 ```
 
-### Contact information
+### Source address
+
+https://github.com/hf0913/watermark
+
+#### Contact information
 
 QQ：1330713179 WeChat：HF15243886475 Email：fenghu0913@gmail.com
