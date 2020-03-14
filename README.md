@@ -27,7 +27,7 @@ const config = {
 		x: 15,
 		y: 56
 	}, // 第二段文字坐标
-	top: "14px", // 内容top，参考css语法position top
+	top: 0, // 内容top，参考css语法position top
 	left: 0, // 内容left，参考css语法position left
 	zIndex: 1208120812081208, // 内容层级，参考css语法position z-index
 	opacity: 0.28, // 字体颜色深浅，参考css语法opacity
@@ -38,7 +38,7 @@ const config = {
 	type: "canvas", // 水印类型：canvas | picture
 	bgUrl: "", // 自定义水印图片
 	bgRepeat: "repeat", // 是否及如何重复背景图像，参考css语法background-repeat
-	bgSize: "100% 100%", // 背景图像的尺寸，参考css语法background-size
+	bgSize: "auto", // 背景图像的尺寸，参考css语法background-size
 	bgPosition: "top left", // 背景图像的起始位置，参考css语法background-position
 	bgAttachment: "scroll" // 设置固定的背景图像，参考css语法background-attachment
 };
